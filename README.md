@@ -4,6 +4,9 @@
 
 Лекция 1
 
+![Ссылка на Jupyter Notebook](1_lesson.ipynb)
+
+
 Лекция 2
 
 Лекция 3
