@@ -4,7 +4,7 @@
 
 Лекция 1
 
-![Ссылка на Jupyter Notebook](1_lesson.ipynb)
+![Ссылка на Jupyter Notebook](lessons/1_lesson.ipynb)
 
 
 Лекция 2
