@@ -6,8 +6,12 @@
 
 [Ссылка на Jupyter Notebook](lessons/1_lesson.ipynb)
 
-
+<!-- #region -->
 Лекция 2
+
+
+[Ссылка на Jupyter Notebook](lessons/2-3_lessons.ipynb)
+<!-- #endregion -->
 
 Лекция 3
 
@@ -34,5 +38,3 @@
 Лекция 14
 
 Лекция 15
-
-
