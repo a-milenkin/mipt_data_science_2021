@@ -16,15 +16,15 @@
 
 Лекция 4
 
-[Ссылка на Jupyter Notebook](lessons/4_lessons.ipynb)
+[Ссылка на Jupyter Notebook](lessons/4_lesson.ipynb)
 
 Лекция 5
 
-[Ссылка на Jupyter Notebook](lessons/5_lessons.ipynb)
+[Ссылка на Jupyter Notebook](lessons/5_lesson.ipynb)
 
 Лекция 6 и 7
 
-[Ссылка на Jupyter Notebook](lessons/6_7_lessons.ipynb)
+[Ссылка на Jupyter Notebook](lessons/6_7_lesson.ipynb)
 
 Дамашнее задание # 1
 
