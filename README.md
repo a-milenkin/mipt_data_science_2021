@@ -7,21 +7,28 @@
 [Ссылка на Jupyter Notebook](lessons/1_lesson.ipynb)
 
 <!-- #region -->
-Лекция 2
+Лекция 2 и 3
 
 
 [Ссылка на Jupyter Notebook](lessons/2-3_lessons.ipynb)
 <!-- #endregion -->
 
-Лекция 3
 
 Лекция 4
 
+[Ссылка на Jupyter Notebook](lessons/4_lessons.ipynb)
+
 Лекция 5
 
-Лекция 6
+[Ссылка на Jupyter Notebook](lessons/5_lessons.ipynb)
 
-Лекция 7
+Лекция 6 и 7
+
+[Ссылка на Jupyter Notebook](lessons/6_7_lessons.ipynb)
+
+Дамашнее задание # 1
+
+[Ссылка на Jupyter Notebook](home_works/HW_1.ipynb)
 
 Лекция 8
 
