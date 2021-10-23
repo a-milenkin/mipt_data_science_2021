@@ -50,6 +50,8 @@
 
 # Лекция 8
 
+[Ссылка на Jupyter Notebook](home_works/8_lesson_data_parsing_intro.ipynb)
+
 # Лекция 9
 
 # Лекция 10
