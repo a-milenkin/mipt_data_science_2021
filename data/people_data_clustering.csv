@@ -1,4 +1,4 @@
-,id,was_married,childrens,salary,sex,age,Professon,home_cost,drive_info
+,id,was_married,childrens,salary,sex,age,profession,home_cost,drive_info
 0,0,1,4.0,45032.4,1,82.0,Engineer,10036744.144810405,
 1,1,1,2.0,202004.64,1,32.0,Doctor,10140513.669981455,0.0
 2,2,1,6.0,213158.75,1,14.0,Entertainment,10433180.965577615,
