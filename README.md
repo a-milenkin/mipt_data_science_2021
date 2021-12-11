@@ -71,3 +71,7 @@
 # Лекция 14
 
 # Лекция 15
+
+# Домашнее задание # 3
+
+[Ссылка на Jupyter Notebook](home_works/HW_3.ipynb)
